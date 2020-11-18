@@ -1,0 +1,119 @@
+2020-11-18 11:39:09,667  INFO [main] CucumberTestRunner:30 - ------------------------------------Test Execution is initiated----------------------------------------------
+2020-11-18 11:39:09,691  INFO [main] Hooks:15 - ***********************************************************************************************
+2020-11-18 11:39:09,692  INFO [main] Hooks:16 - Execution is started for the scenario Validate that user can send "Posts" api service request successfully and ensure api returns appropriate "Post" information from social network system successfully*********************
+2020-11-18 11:39:09,816  INFO [main] ConfigUtils:22 - Retrieved value 'https://jsonplaceholder.typicode.com' for given key 'baseurl'
+2020-11-18 11:39:09,817  INFO [main] ConfigUtils:22 - Retrieved value '/posts' for given key 'posts'
+2020-11-18 11:39:09,819  INFO [main] APIServiceTestStepDefs:31 - API URI is 'https://jsonplaceholder.typicode.com/posts'
+2020-11-18 11:39:14,139  INFO [main] APIServiceTestStepDefs:44 - Sent API Service Request for 'https://jsonplaceholder.typicode.com/posts' successfully
+2020-11-18 11:39:14,144  INFO [main] ResponseParseUtils:17 - Successfully retrieved the response code from API response
+2020-11-18 11:39:14,145  INFO [main] APIServiceTestStepDefs:50 - The 'posts' API Service has ran and returned '200' response status code
+2020-11-18 11:39:14,236  INFO [main] APIServiceTestStepDefs:59 - The 'posts' response returned appropriate 'posts' objects as expected
+2020-11-18 11:39:14,240  INFO [main] APIServiceTestStepDefs:83 - The 'posts' response returned with appropriate details
+2020-11-18 11:39:14,247  INFO [main] APIServiceTestStepDefs:99 - Input attributes are present in response
+2020-11-18 11:39:14,250  INFO [main] Hooks:21 - Execution is completed for the scenario Validate that user can send "Posts" api service request successfully and ensure api returns appropriate "Post" information from social network system successfully********************
+2020-11-18 11:39:14,251  INFO [main] Hooks:22 - ************************************************************************************************
+2020-11-18 11:39:14,253  INFO [main] Hooks:15 - ***********************************************************************************************
+2020-11-18 11:39:14,264  INFO [main] Hooks:16 - Execution is started for the scenario Validate that user can send "Posts" api service request successfully and ensure api returns appropriate "Post" information from social network system successfully*********************
+2020-11-18 11:39:14,275  INFO [main] ConfigUtils:22 - Retrieved value 'https://jsonplaceholder.typicode.com' for given key 'baseurl'
+2020-11-18 11:39:14,276  INFO [main] ConfigUtils:22 - Retrieved value '/posts' for given key 'posts'
+2020-11-18 11:39:14,276  INFO [main] APIServiceTestStepDefs:31 - API URI is 'https://jsonplaceholder.typicode.com/posts'
+2020-11-18 11:39:15,524  INFO [main] APIServiceTestStepDefs:44 - Sent API Service Request for 'https://jsonplaceholder.typicode.com/posts' successfully
+2020-11-18 11:39:15,532  INFO [main] ResponseParseUtils:17 - Successfully retrieved the response code from API response
+2020-11-18 11:39:15,534  INFO [main] APIServiceTestStepDefs:50 - The 'posts' API Service has ran and returned '200' response status code
+2020-11-18 11:39:15,552  INFO [main] APIServiceTestStepDefs:59 - The 'posts' response returned appropriate 'posts' objects as expected
+2020-11-18 11:39:15,558  INFO [main] APIServiceTestStepDefs:83 - The 'posts' response returned with appropriate details
+2020-11-18 11:39:15,574  INFO [main] APIServiceTestStepDefs:99 - Input attributes are present in response
+2020-11-18 11:39:15,578  INFO [main] Hooks:21 - Execution is completed for the scenario Validate that user can send "Posts" api service request successfully and ensure api returns appropriate "Post" information from social network system successfully********************
+2020-11-18 11:39:15,579  INFO [main] Hooks:22 - ************************************************************************************************
+2020-11-18 11:39:15,581  INFO [main] Hooks:15 - ***********************************************************************************************
+2020-11-18 11:39:15,584  INFO [main] Hooks:16 - Execution is started for the scenario Validate that user can send "Posts" api service request successfully and ensure api returns appropriate "Post" information from social network system successfully*********************
+2020-11-18 11:39:15,595  INFO [main] ConfigUtils:22 - Retrieved value 'https://jsonplaceholder.typicode.com' for given key 'baseurl'
+2020-11-18 11:39:15,598  INFO [main] ConfigUtils:22 - Retrieved value '/posts' for given key 'posts'
+2020-11-18 11:39:15,599  INFO [main] APIServiceTestStepDefs:31 - API URI is 'https://jsonplaceholder.typicode.com/posts'
+2020-11-18 11:39:16,805  INFO [main] APIServiceTestStepDefs:44 - Sent API Service Request for 'https://jsonplaceholder.typicode.com/posts' successfully
+2020-11-18 11:39:16,810  INFO [main] ResponseParseUtils:17 - Successfully retrieved the response code from API response
+2020-11-18 11:39:16,811  INFO [main] APIServiceTestStepDefs:50 - The 'posts' API Service has ran and returned '200' response status code
+2020-11-18 11:39:16,818  INFO [main] APIServiceTestStepDefs:59 - The 'posts' response returned appropriate 'posts' objects as expected
+2020-11-18 11:39:16,826  INFO [main] APIServiceTestStepDefs:83 - The 'posts' response returned with appropriate details
+2020-11-18 11:39:16,828  INFO [main] APIServiceTestStepDefs:99 - Input attributes are present in response
+2020-11-18 11:39:16,829  INFO [main] Hooks:21 - Execution is completed for the scenario Validate that user can send "Posts" api service request successfully and ensure api returns appropriate "Post" information from social network system successfully********************
+2020-11-18 11:39:16,830  INFO [main] Hooks:22 - ************************************************************************************************
+2020-11-18 11:39:16,835  INFO [main] Hooks:15 - ***********************************************************************************************
+2020-11-18 11:39:16,836  INFO [main] Hooks:16 - Execution is started for the scenario Validate that user can send "Comments" api service request successfully and ensure api returns appropriate "Comment" information from social network system successfully*********************
+2020-11-18 11:39:16,841  INFO [main] ConfigUtils:22 - Retrieved value 'https://jsonplaceholder.typicode.com' for given key 'baseurl'
+2020-11-18 11:39:16,842  INFO [main] ConfigUtils:22 - Retrieved value '/comments' for given key 'comments'
+2020-11-18 11:39:16,843  INFO [main] APIServiceTestStepDefs:31 - API URI is 'https://jsonplaceholder.typicode.com/comments'
+2020-11-18 11:39:18,103  INFO [main] APIServiceTestStepDefs:44 - Sent API Service Request for 'https://jsonplaceholder.typicode.com/comments' successfully
+2020-11-18 11:39:18,108  INFO [main] ResponseParseUtils:17 - Successfully retrieved the response code from API response
+2020-11-18 11:39:18,109  INFO [main] APIServiceTestStepDefs:50 - The 'comments' API Service has ran and returned '200' response status code
+2020-11-18 11:39:18,116  INFO [main] APIServiceTestStepDefs:59 - The 'comments' response returned appropriate 'comments' objects as expected
+2020-11-18 11:39:18,120  INFO [main] APIServiceTestStepDefs:83 - The 'comments' response returned with appropriate details
+2020-11-18 11:39:18,123  INFO [main] APIServiceTestStepDefs:99 - Input attributes are present in response
+2020-11-18 11:39:18,127  INFO [main] Hooks:21 - Execution is completed for the scenario Validate that user can send "Comments" api service request successfully and ensure api returns appropriate "Comment" information from social network system successfully********************
+2020-11-18 11:39:18,128  INFO [main] Hooks:22 - ************************************************************************************************
+2020-11-18 11:39:18,133  INFO [main] Hooks:15 - ***********************************************************************************************
+2020-11-18 11:39:18,133  INFO [main] Hooks:16 - Execution is started for the scenario Validate that user can send "Comments" api service request successfully and ensure api returns appropriate "Comment" information from social network system successfully*********************
+2020-11-18 11:39:18,141  INFO [main] ConfigUtils:22 - Retrieved value 'https://jsonplaceholder.typicode.com' for given key 'baseurl'
+2020-11-18 11:39:18,143  INFO [main] ConfigUtils:22 - Retrieved value '/comments' for given key 'comments'
+2020-11-18 11:39:18,144  INFO [main] APIServiceTestStepDefs:31 - API URI is 'https://jsonplaceholder.typicode.com/comments'
+2020-11-18 11:39:19,400  INFO [main] APIServiceTestStepDefs:44 - Sent API Service Request for 'https://jsonplaceholder.typicode.com/comments' successfully
+2020-11-18 11:39:19,405  INFO [main] ResponseParseUtils:17 - Successfully retrieved the response code from API response
+2020-11-18 11:39:19,406  INFO [main] APIServiceTestStepDefs:50 - The 'comments' API Service has ran and returned '200' response status code
+2020-11-18 11:39:19,410  INFO [main] APIServiceTestStepDefs:59 - The 'comments' response returned appropriate 'comments' objects as expected
+2020-11-18 11:39:19,414  INFO [main] APIServiceTestStepDefs:83 - The 'comments' response returned with appropriate details
+2020-11-18 11:39:19,417  INFO [main] APIServiceTestStepDefs:99 - Input attributes are present in response
+2020-11-18 11:39:19,419  INFO [main] Hooks:21 - Execution is completed for the scenario Validate that user can send "Comments" api service request successfully and ensure api returns appropriate "Comment" information from social network system successfully********************
+2020-11-18 11:39:19,420  INFO [main] Hooks:22 - ************************************************************************************************
+2020-11-18 11:39:19,422  INFO [main] Hooks:15 - ***********************************************************************************************
+2020-11-18 11:39:19,422  INFO [main] Hooks:16 - Execution is started for the scenario Validate that user can send "Comments" api service request successfully and ensure api returns appropriate "Comment" information from social network system successfully*********************
+2020-11-18 11:39:19,432  INFO [main] ConfigUtils:22 - Retrieved value 'https://jsonplaceholder.typicode.com' for given key 'baseurl'
+2020-11-18 11:39:19,434  INFO [main] ConfigUtils:22 - Retrieved value '/comments' for given key 'comments'
+2020-11-18 11:39:19,435  INFO [main] APIServiceTestStepDefs:31 - API URI is 'https://jsonplaceholder.typicode.com/comments'
+2020-11-18 11:39:20,656  INFO [main] APIServiceTestStepDefs:44 - Sent API Service Request for 'https://jsonplaceholder.typicode.com/comments' successfully
+2020-11-18 11:39:20,658  INFO [main] ResponseParseUtils:17 - Successfully retrieved the response code from API response
+2020-11-18 11:39:20,659  INFO [main] APIServiceTestStepDefs:50 - The 'comments' API Service has ran and returned '200' response status code
+2020-11-18 11:39:20,663  INFO [main] APIServiceTestStepDefs:59 - The 'comments' response returned appropriate 'comments' objects as expected
+2020-11-18 11:39:20,666  INFO [main] APIServiceTestStepDefs:83 - The 'comments' response returned with appropriate details
+2020-11-18 11:39:20,668  INFO [main] APIServiceTestStepDefs:99 - Input attributes are present in response
+2020-11-18 11:39:20,669  INFO [main] Hooks:21 - Execution is completed for the scenario Validate that user can send "Comments" api service request successfully and ensure api returns appropriate "Comment" information from social network system successfully********************
+2020-11-18 11:39:20,670  INFO [main] Hooks:22 - ************************************************************************************************
+2020-11-18 11:39:20,673  INFO [main] Hooks:15 - ***********************************************************************************************
+2020-11-18 11:39:20,673  INFO [main] Hooks:16 - Execution is started for the scenario Validate that user can send "Users" api service request successfully and ensure api returns appropriate "user" information from social network system successfully*********************
+2020-11-18 11:39:20,677  INFO [main] ConfigUtils:22 - Retrieved value 'https://jsonplaceholder.typicode.com' for given key 'baseurl'
+2020-11-18 11:39:20,678  INFO [main] ConfigUtils:22 - Retrieved value '/users' for given key 'users'
+2020-11-18 11:39:20,678  INFO [main] APIServiceTestStepDefs:31 - API URI is 'https://jsonplaceholder.typicode.com/users'
+2020-11-18 11:39:21,922  INFO [main] APIServiceTestStepDefs:44 - Sent API Service Request for 'https://jsonplaceholder.typicode.com/users' successfully
+2020-11-18 11:39:21,927  INFO [main] ResponseParseUtils:17 - Successfully retrieved the response code from API response
+2020-11-18 11:39:21,927  INFO [main] APIServiceTestStepDefs:50 - The 'users' API Service has ran and returned '200' response status code
+2020-11-18 11:39:21,930  INFO [main] APIServiceTestStepDefs:59 - The 'users' response returned appropriate 'users' objects as expected
+2020-11-18 11:39:21,933  INFO [main] APIServiceTestStepDefs:83 - The 'users' response returned with appropriate details
+2020-11-18 11:39:21,936  INFO [main] APIServiceTestStepDefs:99 - Input attributes are present in response
+2020-11-18 11:39:21,937  INFO [main] Hooks:21 - Execution is completed for the scenario Validate that user can send "Users" api service request successfully and ensure api returns appropriate "user" information from social network system successfully********************
+2020-11-18 11:39:21,938  INFO [main] Hooks:22 - ************************************************************************************************
+2020-11-18 11:39:21,940  INFO [main] Hooks:15 - ***********************************************************************************************
+2020-11-18 11:39:21,941  INFO [main] Hooks:16 - Execution is started for the scenario Validate that user can send "Users" api service request successfully and ensure api returns appropriate "user" information from social network system successfully*********************
+2020-11-18 11:39:21,948  INFO [main] ConfigUtils:22 - Retrieved value 'https://jsonplaceholder.typicode.com' for given key 'baseurl'
+2020-11-18 11:39:21,950  INFO [main] ConfigUtils:22 - Retrieved value '/users' for given key 'users'
+2020-11-18 11:39:21,950  INFO [main] APIServiceTestStepDefs:31 - API URI is 'https://jsonplaceholder.typicode.com/users'
+2020-11-18 11:39:23,204  INFO [main] APIServiceTestStepDefs:44 - Sent API Service Request for 'https://jsonplaceholder.typicode.com/users' successfully
+2020-11-18 11:39:23,209  INFO [main] ResponseParseUtils:17 - Successfully retrieved the response code from API response
+2020-11-18 11:39:23,210  INFO [main] APIServiceTestStepDefs:50 - The 'users' API Service has ran and returned '200' response status code
+2020-11-18 11:39:23,216  INFO [main] APIServiceTestStepDefs:59 - The 'users' response returned appropriate 'users' objects as expected
+2020-11-18 11:39:23,219  INFO [main] APIServiceTestStepDefs:83 - The 'users' response returned with appropriate details
+2020-11-18 11:39:23,229  INFO [main] APIServiceTestStepDefs:99 - Input attributes are present in response
+2020-11-18 11:39:23,231  INFO [main] Hooks:21 - Execution is completed for the scenario Validate that user can send "Users" api service request successfully and ensure api returns appropriate "user" information from social network system successfully********************
+2020-11-18 11:39:23,232  INFO [main] Hooks:22 - ************************************************************************************************
+2020-11-18 11:39:23,234  INFO [main] Hooks:15 - ***********************************************************************************************
+2020-11-18 11:39:23,235  INFO [main] Hooks:16 - Execution is started for the scenario Validate that user can send "Users" api service request successfully and ensure api returns appropriate "user" information from social network system successfully*********************
+2020-11-18 11:39:23,241  INFO [main] ConfigUtils:22 - Retrieved value 'https://jsonplaceholder.typicode.com' for given key 'baseurl'
+2020-11-18 11:39:23,242  INFO [main] ConfigUtils:22 - Retrieved value '/users' for given key 'users'
+2020-11-18 11:39:23,243  INFO [main] APIServiceTestStepDefs:31 - API URI is 'https://jsonplaceholder.typicode.com/users'
+2020-11-18 11:39:24,448  INFO [main] APIServiceTestStepDefs:44 - Sent API Service Request for 'https://jsonplaceholder.typicode.com/users' successfully
+2020-11-18 11:39:24,453  INFO [main] ResponseParseUtils:17 - Successfully retrieved the response code from API response
+2020-11-18 11:39:24,454  INFO [main] APIServiceTestStepDefs:50 - The 'users' API Service has ran and returned '200' response status code
+2020-11-18 11:39:24,459  INFO [main] APIServiceTestStepDefs:59 - The 'users' response returned appropriate 'users' objects as expected
+2020-11-18 11:39:24,464  INFO [main] APIServiceTestStepDefs:83 - The 'users' response returned with appropriate details
+2020-11-18 11:39:24,469  INFO [main] APIServiceTestStepDefs:99 - Input attributes are present in response
+2020-11-18 11:39:24,474  INFO [main] Hooks:21 - Execution is completed for the scenario Validate that user can send "Users" api service request successfully and ensure api returns appropriate "user" information from social network system successfully********************
+2020-11-18 11:39:24,477  INFO [main] Hooks:22 - ************************************************************************************************
+2020-11-18 11:39:24,479  INFO [main] CucumberTestRunner:36 - ------------------------------------Test Execution is ended--------------------------------------------------
