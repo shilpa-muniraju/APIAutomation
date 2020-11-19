@@ -18,7 +18,6 @@ import serviceutils.ResponseParseUtils;
 
 
 public class APIServiceTestStepDefs {
-	Response response = null;
 	static Logger log = Logger.getLogger("APIServiceTestStepDefs");
 	String serviceURI;
 
@@ -40,7 +39,7 @@ public class APIServiceTestStepDefs {
 			paramList.put(param.split("-")[0].trim(), param.split("-")[1].trim());
 		}
 
-		response = RequestRunner.sendGetRequestWithGivenParams(null, serviceURI, paramList);
+		RequestRunner.sendGetRequestWithGivenParams(null, serviceURI, paramList);
 		log.info("Sent API Service Request for '"+serviceURI+ "' successfully");
 	}
 
