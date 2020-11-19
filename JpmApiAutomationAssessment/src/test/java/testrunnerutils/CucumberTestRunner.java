@@ -12,7 +12,7 @@ import cucumber.api.junit.Cucumber;
 
 @CucumberOptions(
 		snippets = SnippetType.CAMELCASE,
-		plugin = {"html:target/cucumberexecreport",
+		plugin = {"html:target/cucumberreport",
 		"json:target/cucumber.json"}, 
 		features = ".", 
 		glue = {"stepdefinitions" },
